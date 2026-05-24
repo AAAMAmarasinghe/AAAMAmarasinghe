@@ -1,6 +1,6 @@
 # Hi, I'm Asani Amarasinghe 👋
 
-🎓 **Computer Science Student** at IIT | 💼 **IT Intern** at North Sails | 🌱 Passionate about Software Development & UI/UX Design
+🎓 **Computer Science Student** at IIT |🌱 Passionate about Software Development & UI/UX Design
 
 ## About Me
 
